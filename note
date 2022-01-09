@@ -1,0 +1,7 @@
+服务器操作
+
+# 获取最新资源包
+sudo yum update
+# 本机软件全部更新
+sudo yum upgrade 
+
